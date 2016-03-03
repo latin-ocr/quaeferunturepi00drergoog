@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaeferunturepi00drergoog_0006.png"; bbox 0 0 3614 5318; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 642 1139 1100 1331">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 642 1129 1100 1331">
+     <span class='ocr_line' id='line_1_1' title="bbox 642 1139 1100 1331; baseline 0.007 -62"><span class='ocrx_word' id='word_1_1' title='bbox 642 1139 1100 1331; x_wconf 58' lang='lat' dir='ltr'><strong>mamm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 129 1529 1677 1706">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 129 1451 1677 1706">
+     <span class='ocr_line' id='line_1_2' title="bbox 129 1529 1677 1706; baseline -0.004 -38"><span class='ocrx_word' id='word_1_2' title='bbox 129 1578 135 1587; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 226 1532 458 1700; x_wconf 73' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 517 1535 985 1666; x_wconf 70' lang='lat' dir='ltr'>FERUNTUR</span> <span class='ocrx_word' id='word_1_5' title='bbox 1051 1529 1526 1706; x_wconf 73' lang='lat' dir='ltr'>EPISTOLAE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1674 1681 1677 1686; x_wconf 56' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 815 2204 945 2266">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 815 2204 945 2266">
+     <span class='ocr_line' id='line_1_3' title="bbox 815 2204 945 2266; baseline -0.023 0"><span class='ocrx_word' id='word_1_7' title='bbox 815 2204 945 2266; x_wconf 76' lang='lat' dir='ltr'><strong>EDIDIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 487 2811 1260 2976">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 487 2811 1260 2976">
+     <span class='ocr_line' id='line_1_4' title="bbox 487 2811 1260 2976; baseline -0.001 -60"><span class='ocrx_word' id='word_1_8' title='bbox 487 2811 946 2916; x_wconf 64' lang='lat' dir='ltr'><strong>ENGELBERTUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 980 2812 1260 2976; x_wconf 56' lang='lat' dir='ltr'><strong>DRERUP.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1812 5318">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1812 5318">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1812 5318; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1812 5318; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
